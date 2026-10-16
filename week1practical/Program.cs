@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Enter your name: ");
+﻿// Week 1 Task 1 - User input
+
+Console.WriteLine("Enter your name: ");
 string name = Console.ReadLine() ?? "";
 
 Console.WriteLine("Enter your age: ");
